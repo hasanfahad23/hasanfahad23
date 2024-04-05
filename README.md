@@ -1,5 +1,3 @@
-
-
 Hi there, I'm Fahad Hossain! 👋
 🔭 I’m currently a Cyber Security Intern, gaining hands-on experience in the field.
 🌱 I’m currently learning more about network security, ethical hacking techniques, and cyber security tool development.
